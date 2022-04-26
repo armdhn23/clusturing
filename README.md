@@ -1,1 +1,3 @@
-# clusturing
+# Clustering
+
+Ini adalah hasil clustering....
